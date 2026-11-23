@@ -1,0 +1,17 @@
+artifacts/
+training_runs/
+
+# empty mount-point placeholders created by the agent's sandbox
+.bash_profile
+.bashrc
+.claude/
+.gitconfig
+.gitmodules
+.idea
+.mcp.json
+.profile
+.ripgreprc
+.vscode
+.zprofile
+.zshrc
+__pycache__/
